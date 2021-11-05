@@ -1,0 +1,9 @@
+#canvas {
+  width: 600px;
+  height: 600px;
+  border: solid black 1px;
+}
+
+#log {
+  border: 1px solid #ccc;
+}
